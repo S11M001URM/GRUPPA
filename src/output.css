@@ -870,4 +870,10 @@ video {
 
 .text-\[\] {
   color: ;
+.hidden {
+  display: none;
+}
+
+.text-\[36px\] {
+  font-size: 36px;
 }
